@@ -94,10 +94,6 @@
       <Project>{4ed281e4-2202-4e2a-ae59-56ece791b6cb}</Project>
       <Name>TeduShop.Service</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TeduShop.Web\TeduShop.Web.csproj">
-      <Project>{1ee1f8e1-7995-4736-8c76-07e6cbfc7d2b}</Project>
-      <Name>TeduShop.Web</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
